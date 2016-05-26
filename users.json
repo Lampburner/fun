@@ -1,15 +1,10 @@
 {
-  "name": "kyle",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.15.1",
-    "express": "^4.13.4"
-  }
+  "users": [
+    {"id":"001", "name":"john", "phone_number":"4845573072", "choices": [1,2,3] },
+    
+
+    {"id":"002", "name":"kyle", "phone_number": "kyle'snumber", "choices": [4,5,6] },
+     
+
+  ]
 }
